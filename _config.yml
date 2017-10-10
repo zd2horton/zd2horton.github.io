@@ -4,7 +4,7 @@ bio:                'This is my portfolio for university work!'
 description:        "Zach's portfolio for all university work"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/mylogo.jpg'
+logo:               'assets/img/mylogo.png'
 background:         'assets/img/SMW.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
