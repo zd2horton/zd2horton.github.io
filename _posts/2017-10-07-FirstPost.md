@@ -16,10 +16,10 @@ Image testing:
 
 
 **I also happen to like:**
-	* Dogs
-	* Coffee
-	* Cats
-	* Everything inbetween that isn't politics or modern music or XBox
+	* Dogs\n
+	* Coffee\n
+	* Cats\n
+	* Everything inbetween that isn't politics or modern music or XBox\n
 	
 	
 ## Hopes for the course
