@@ -8,7 +8,7 @@ comments: false
     
 <center>
 <figure>
-        <img src="../assets/mylogo.png" class="img-circle animated rotateIn">
+        <img src="../assets/img/mylogo.png" class="img-circle animated rotateIn">
 </figure>
 
 </center>
