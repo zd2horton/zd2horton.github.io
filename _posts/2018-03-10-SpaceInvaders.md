@@ -13,6 +13,6 @@ me realise the usefulness of mathematics in games.
 
 <figure>
 https://github.com/UWEGames-ESD/space-invaders-zd2horton
-<a href="assets/img/space.JPG"></a>
-<a href="assets/img/space2.JPG"></a>
+<a href="https://i.imgur.com/FzEQp1n.jpg"><img src="https://i.imgur.com/FzEQp1n.jpg"></a>
+<a href="https://i.imgur.com/FzEQp1n.jpg"><img src="https://i.imgur.com/FzEQp1n.jpg"></a>
 </figure>
