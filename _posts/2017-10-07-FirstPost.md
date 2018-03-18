@@ -14,7 +14,7 @@ Image testing:
 	<a href="https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"><img src="https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"></a>
 </figure>
 
-
+---
 **I also happen to like:**
 	* Dogs\n
 	* Coffee\n
