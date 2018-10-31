@@ -1,5 +1,5 @@
 ---
-layout: ESDproject
+layout: post
 title: Space Invaders
 date: 2018-03-10
 description: Space Invaders, created using ASGE.
