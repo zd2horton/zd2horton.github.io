@@ -3,6 +3,7 @@ layout: post
 title: Space Invaders
 date: 2018-03-10
 description: Space Invaders, created using ASGE.
+project: true
 tags: [portfolio project, code, game]
 category: project
 published: true
