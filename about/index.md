@@ -14,4 +14,4 @@ comments: false
 </center>
 
 ## About Me
-Enjoying Year 1 of university so far, and it's helping me start afresh with programming (and it already makes more sense than when I learned it in secondary school). Hopefully in the future this website will be full of work that I can be proud of!
+I am currently a UWE student in their second year of Games Technology. The first year helped me immensely in understanding the basic workiungs of game design and hope for this current year to aid me even further.
