@@ -14,4 +14,4 @@ comments: false
 </center>
 
 ## About Me
-I am currently a UWE student in their second year of Games Technology. The first year helped me immensely in understanding the basic workiungs of game design and hope for this current year to aid me even further.
+I am currently a UWE student in their second year of Games Technology. The first year helped me immensely in understanding the basic workings of game design and hope for this current year to aid me even further.
