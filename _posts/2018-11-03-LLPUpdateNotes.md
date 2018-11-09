@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Low Level Programming: Text Adventure Game Update 2
-date: 2018-11-3
+date: 2018-11-03
 description: Developments on the Text Adventure BASIC game, notes being taken from the book.
 tags: [LLP, game, post]
 category: post
