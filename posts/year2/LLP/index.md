@@ -1,6 +1,6 @@
 ---
 layout: LLPpost-list
-title: Game Engine Architecture Posts
-excerpt: "Posts associated with Game Engine Architecture"
+title: Low Level Programming Posts
+excerpt: "Posts associated with Low Level Programming"
 comments: false
 ---
