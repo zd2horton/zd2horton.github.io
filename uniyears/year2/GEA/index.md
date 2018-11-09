@@ -1,6 +1,6 @@
 ---
 layout: GEAproject
-title: Low Level Programming Projects
-excerpt: "Projects and posts associated with Low Level Programming"
+title: Game Engine Architecture Projects
+excerpt: "Projects associated with Game Engine Architecture"
 comments: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: LLPproject
-title: Game Engine Architecture
-excerpt: "Projects and posts associated with Game Engine Architecture"
+title: Low Level Programming Projects
+excerpt: "Projects associated with Low Level Programming"
 comments: false
 ---

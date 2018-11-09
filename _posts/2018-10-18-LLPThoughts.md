@@ -3,7 +3,8 @@ layout: post
 title: Low Level Programming, Initial thoughts
 date: 2018-10-18
 description: Initial thoughts about the Low Level Programming module.
-tags: [LLP, game, post]
+LLPpost: true
+tags: [LLP, game, post, LLPpost]
 category: post
 published: true
 comments: true

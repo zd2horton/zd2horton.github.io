@@ -3,7 +3,8 @@ layout: post
 title: Play and Games, Initial thoughts
 date: 2018-10-18
 description: Initial thoughts about the Play and Games module.
-tags: [PaG, game, post]
+PaGpost: true
+tags: [PaG, game, post, PaGpost]
 category: post
 published: true
 comments: true

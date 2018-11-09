@@ -1,6 +1,8 @@
 ---
-layout: post-list
+<!---layout: post-list
 title: All Posts
-excerpt: "A List of Posts"
-comments: false
+excerpt: "A List of Posts"-->
+layout: post-yearsort
+title: All Posts
+comments: true
 ---

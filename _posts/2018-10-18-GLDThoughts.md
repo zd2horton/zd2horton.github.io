@@ -3,7 +3,8 @@ layout: post
 title: Game Level Design, Initial thoughts
 date: 2018-10-18
 description: Initial thoughts about the Game Level Design module.
-tags: [GLD, game, post]
+GLDpost: true
+tags: [GLD, game, post, GLDpost]
 category: post
 published: true
 comments: true

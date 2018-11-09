@@ -3,7 +3,8 @@ layout: post
 title: Play and Games, Beginning Coursework
 date: 2018-11-06
 description: Thoughts about potential game ideas in Play and Games.
-tags: [PaG, game, post]
+PaGpost: true
+tags: [PaG, game, post, PaGpost]
 category: post
 published: true
 comments: true

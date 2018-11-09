@@ -3,7 +3,8 @@ layout: post
 title: Game Level Design, Thoughts about assignment
 date: 2018-11-02
 description: Initial thoughts about the assignment given in Game Level Design.
-tags: [GLD, game, post]
+GLDpost: true
+tags: [GLD, game, post, GLDpost]
 category: post
 published: true
 comments: true
