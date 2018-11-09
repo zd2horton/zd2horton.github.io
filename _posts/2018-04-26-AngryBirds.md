@@ -2,7 +2,7 @@
 layout: post
 title: Angry Birds
 date: 2018-04-26
-description: An ASGE adaptation of the Angry Birds formula.
+excerpt: An ASGE adaptation of the Angry Birds formula.
 ESDproject: true
 tags: [portfolio project, code, game, ESDproject]
 category: post

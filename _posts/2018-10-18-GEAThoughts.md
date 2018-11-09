@@ -2,7 +2,7 @@
 layout: post
 title: Game Engine Architecture, Initial thoughts
 date: 2018-10-18
-description: Initial thoughts about the Game Engine Architecture module.
+excerpt: Initial thoughts about the Game Engine Architecture module.
 GEApost: true
 tags: [GEA, game, post, GEApost]
 category: post
