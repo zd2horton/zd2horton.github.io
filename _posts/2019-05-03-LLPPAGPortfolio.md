@@ -3,7 +3,7 @@ layout: post
 title: Low Level Programming, Play and Games Portfolio
 date: 2019-05-03
 excerpt: Enter the Land of Gold.
-tags: [LLP, game, post, LLPpost, LLPproject LLPPAG]
+tags: [LLP, game, post, LLPpost, LLPproject, LLPPAG]
 LLPpost: true
 LLPproject: true
 category: post

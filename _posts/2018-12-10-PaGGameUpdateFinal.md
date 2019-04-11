@@ -15,4 +15,4 @@ Overall, the playtests of Land of Gold have benefitted it a lot and created a ve
 [https://www.youtube.com/watch?v=xgy6QPTNzaU&feature=youtu.be&fbclid=IwAR07_IFb1UgAv2Rlx-XlMegQggPERjqO_fECfZ70e2Bd3g-Wu8t4LjTapGs](https://www.youtube.com/watch?v=xgy6QPTNzaU&feature=youtu.be&fbclid=IwAR07_IFb1UgAv2Rlx-XlMegQggPERjqO_fECfZ70e2Bd3g-Wu8t4LjTapGs)
 
 The final decks:
-<a href="https://i.imgur.com/QTR5JQ1.jpg"><img src="https://i.imgur.com/QTR5JQ1.jpg"></a>\
+<a href="https://i.imgur.com/QTR5JQ1.jpg"><img src="https://i.imgur.com/QTR5JQ1.jpg"></a>
