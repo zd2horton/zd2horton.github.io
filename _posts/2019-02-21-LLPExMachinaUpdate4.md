@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Level Programming, Ex Machina Update 4
+title: Low Level Programming, Ex Machina Update 4 (Post Mortem)
 date: 2019-02-21
 excerpt: The final game, and improvements.
 tags: [LLP, game, post, LLPpost, LLPproject, ExMachina]

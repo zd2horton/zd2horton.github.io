@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Level Programming, Ex Machina Final Update
+title: Low Level Programming, Ex Machina Final Update (Post Mortem, Booth Viva)
 date: 2019-02-22
 excerpt: Reflecting back on criticism given.
 tags: [LLP, game, post, LLPpost, ExMachina]

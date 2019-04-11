@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Level Programming, Text Adventure Game Final Update
+title: Low Level Programming, Text Adventure Game Final Update (Post Mortem)
 date: 2018-11-15
 excerpt: Final thoughts on the Text Adventure Game, and the finished product.
 tags: [LLP, game, post, LLPpost, LLPproject, basic]
