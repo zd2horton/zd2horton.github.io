@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Level Programming, Text Adventure Portfolio
+title: Low Level Programming, Text Adventure Portfolio Page
 date: 2018-11-15
 excerpt: A BASIC game revitalised in C++.
 tags: [LLP, game, post, LLPpost, LLPproject, basic]

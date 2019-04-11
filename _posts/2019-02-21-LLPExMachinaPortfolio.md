@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Level Programming, Ex Machina Portfolio
+title: Low Level Programming, Ex Machina Portfolio Page
 date: 2019-02-21
 excerpt: A puzzling twist on the Sci Fi movie.
 tags: [LLP, game, post, LLPpost, LLPproject, ExMachina]
