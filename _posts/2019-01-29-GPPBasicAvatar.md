@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gameplay Programming, Basic Avatar Project
-date: 2018-01-29
+date: 2019-01-29
 excerpt: Our first Unity task for Gameplay Programming, involving implementing a basic avatar.
 GPPproject: true
 tags: [GPP, GPPproject]
@@ -17,9 +17,9 @@ However, the movement is very slippery and can often go against the player's inp
 
 The turning of the player was more difficult to implement, but was more successful than the movement of the player. This involves using a target rotation and Quaternions to angle the player with the speed, direction they're holding, and delta time in order to rotate the avatar smoothly. Previous implementations of this also included manipulating the transform of the avatar and incorrect manipulation of the rigidbody, both resulting in incredibly incorrect results where the avatar upon moving would rotate around very quickly either on ground or into the air.
 
- While this seems to be fairly functional, it also seems to be a huge catalyst in the movement's problems, as it very clearly seems to be adding to the abnormal angles that the player moves in if they attempt to walk and rotate at the same time.  As a result, further improvements would require for the rotation systems to either not interlock with forward and backward movements, or interlock as to not damage how the avatar moves should they choose to walk while rotating themselves.
+While this seems to be fairly functional, it also seems to be a huge catalyst in the movement's problems, as it very clearly seems to be adding to the abnormal angles that the player moves in if they attempt to walk and rotate at the same time.  As a result, further improvements would require for the rotation systems to either not interlock with forward and backward movements, or interlock as to not damage how the avatar moves should they choose to walk while rotating themselves.
  
- The camera will also be improved, as it is only currently a basic follow camera with some ability to drag around and view surroundings. The final camera should be similar to Super Mario 3D World in which it is able to follow the player and pivot around somewhat before returning back to position should the player stop manipulating it.
+The camera will also be improved, as it is only currently a basic follow camera with some ability to drag around and view surroundings. The final camera should be similar to Super Mario 3D World in which it is able to follow the player and pivot around somewhat before returning back to position should the player stop manipulating it.
 
 [https://www.youtube.com/watch?v=RBNcEquc4SI](https://www.youtube.com/watch?v=RBNcEquc4SI)
 
