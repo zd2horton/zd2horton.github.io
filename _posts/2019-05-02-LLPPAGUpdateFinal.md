@@ -29,5 +29,5 @@ The lobby:
 In Game:
 <a href="https://i.imgur.com/JgY1MzL.jpg"><img src="https://i.imgur.com/JgY1MzL.jpg"></a>
 
-The title screen:
+A card in play:
 <a href="https://i.imgur.com/K3Dpias.jpg"><img src="https://i.imgur.com/K3Dpias.jpg"></a>

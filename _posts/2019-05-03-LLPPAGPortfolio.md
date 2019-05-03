@@ -27,4 +27,4 @@ The developer diary for Land of Gold can be found here:
 <a href="https://i.imgur.com/jHisBjd.jpg"><img src="https://i.imgur.com/jHisBjd.jpg"></a>
 <a href="https://i.imgur.com/bA7w7QK.jpg"><img src="https://i.imgur.com/bA7w7QK.jpg"></a>
 <a href="https://i.imgur.com/10ddHIU.jpg"><img src="https://i.imgur.com/10ddHIU.jpg"></a>
-<a href="https://i.imgur.com/K3Dpias.jpg"><img src="https://i.imgur.com/K3Dpias.jpg></a>
+<a href="https://i.imgur.com/K3Dpias.jpg"><img src="https://i.imgur.com/K3Dpias.jpg"></a>
