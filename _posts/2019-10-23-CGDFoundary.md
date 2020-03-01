@@ -2,7 +2,7 @@
 layout: post
 title: Commercial Games Development - Jam 2 (Foundary)
 date: 2019-10-23
-excerpt:
+excerpt: Receiving our new Game Jam.
 tags: [CGD, post, CGDpost]
 CGDpost: true
 category: post

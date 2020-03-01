@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced Technologies - Multiple Cubes
-date: 2019-10-24
+date: 2019-10-25
 excerpt: Rendering multiple cubes to the screen through their own transforms.
 tags: [AT, post, ATpost, ATproject]
 ATpost: true
