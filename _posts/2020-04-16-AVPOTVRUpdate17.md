@@ -13,4 +13,5 @@ The strange silence at end of audio clips issue has been mostly fixed thanks to 
 
 From this point on, the highest priority issues are the crashing wagon audio clip in order to finish this scene's clips, the ability to stop the travelling clips in the bandit and town scenes, and work on the repair scene.
 
+Progress Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Z5HtG23VFLM" target="_blank"><img src="http://img.youtube.com/vi/Z5HtG23VFLM/0.jpg" alt="Update 17" width="240" height="180" border="10" /></a>

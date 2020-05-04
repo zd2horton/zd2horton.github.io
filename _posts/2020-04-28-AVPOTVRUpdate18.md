@@ -25,4 +25,5 @@ For additional improvements, if there is time then spacing for audio could be fu
 
 <a href="https://i.imgur.com/2hNF46N.png"><img src="https://i.imgur.com/2hNF46N.png"></a>
 
+Progress Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5hFChl3QSHo" target="_blank"><img src="http://img.youtube.com/vi/5hFChl3QSHo/0.jpg" alt="Update 18" width="240" height="180" border="10" /></a>
