@@ -18,3 +18,5 @@ The experience will be developed for Oculus based platforms and through Unity, a
 Overall, the audio of the experience will be atmospheric to help immerse the user in, and will be helped by various sounds that will add to the environment and give it life. These will need to be implemented such that the user would be able to turn to the sources of the audio and find the wildlife making the noise.
 
 From here, more research will be required in order to form important aspects about the experience's appeal as well as its educative features. Information about the former should be available via undertaking primary research and asking potential consumers about ideal VR experiences, this information becoming important more so if they have not experienced the medium yet.
+
+<a href="https://i.imgur.com/JwLGvmI.png"><img src="https://i.imgur.com/JwLGvmI.png"></a>
