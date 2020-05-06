@@ -9,4 +9,6 @@ category: post
 published: true
 comments: true
 --- 
-The event has now been coded to fit the mould of the tile system. Through this, the event uses the tiles at positions it needs to analyse and will only set the pre requisite to fall if the tile it decides to fall on is not a wall. As well as this, a different prefab has been made for a fallen machine as previously discussed, and handles the code for killing pawns.
+The event has now been coded to fit the mould of the tile system. Originally, it was thought that this was not an implementation that required exterior help, but done through such as it needed to be registered as a tile type. Through this, the event uses the tiles at positions it needs to analyse (for instance, the position of the machine now uses GetTileAtPosition of itself) and will only set the pre requisite to fall if the tile it decides to fall on is not a wall. As well as this, a different prefab has been made for a fallen machine as previously discussed, and handles the code for killing pawns instead of the base script. This instaniates alongside the existing machine and acts as the blockade part of the machine. While the exact documentation is somewhat messy looking on first glance, I will try my best in understanding it in order to fully contribute to the vending machine event as much as possible.
+
+<a href="https://i.imgur.com/lAekMTH.gif"><img src="https://i.imgur.com/lAekMTH.gif"></a>
