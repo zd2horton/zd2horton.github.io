@@ -1,0 +1,18 @@
+---
+layout: post
+title: Creative Technologies Project - Overall Post Mortem
+date: 2020-06-28
+excerpt: An overview of the module.
+tags: [CTP, post, CTPpost]
+CTPpost: true
+category: post
+published: true
+comments: true
+---
+As a whole, the project did not go entirely as planned. The intention was to use Perlin Noise to make a noise map which in tandem with Binary Space Partitioning and other elements like A* would create a final roguelike dungeon map filled with various rooms. The initial aim was to explore how well BSP and Perlin Noise would work together to create a map, however they did not fully intertwine until A* was put forward as a way to regulate room difficulty. Overall, the research period went well yet in order to build the project to its fullest potential more research could certainly have been included. This was attempted, but many pieces surrounding the two initial functions dove into much different topics than anything close to the one at hand. In a future project these papers could have been used as extra information, but in this case not much seemed to prove useful. 
+
+From here, implementation of Perlin Noise was mostly achieved without much problem, and while a coloured height map did not show at first (instead simply being monochrome) this was fixed soon enough through tinkering and occasional rewriting of the code. Following this, Binary Space Partitioning was to be implemented and while planning and placing down the foundations of the feature did not take too long, the fleshing out of said foundations caused many issues down the line. The factor of drawing the final tree was a difficult problem to solve at first, as admittedly a notable amount of overthinking it caused the somewhat clearer answer to not be thought of. The simpler solution of using quadrilaterals was realised soon after this as well as the possibility of using A*, and implementing this caused another issue in which Unity would continue to freeze when trying to draw the plots. This in due turn had the simple explanation of the presence of an infinite loop caused by the lack of removal of processed rooms, and was fixed so that each processed tree would be removed.
+
+Once this was fixed, a final issue of drawn areas occured in which many areas were not drawn. Initially believed to be a bug concerning room sizes due to the reservation of small rooms in the corner, more areas were drawn once the processed areas were added to the draw array yet these showed the overarching problem of disproportionate co-ordinates beyond the plane's parameters. Toying with the co-ordinate boundaries in code did not do much to fix this issue, and as the development stage was close to its end this obstacle resulted in a roadblock that could not be cleared. 
+
+Looking back, reaching out for more assistance would have been beneficial as many notable improvements were made on the project through such assistance, and a self imposed overreliance on solving various issues alone definitely harmed progression overall. In any future projects, external assistance must be balanced with self learning in order to succeed not to mention thinking about problems on a lower level before trying to incorporate more complex solutions. General analysis of the problem rather than trying to solve it as soon as possible ties into this, as it would more likely result in less self formed hurdles down the line. 

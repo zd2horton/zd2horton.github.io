@@ -1,0 +1,16 @@
+---
+layout: post
+title: Audio Visual Production, Post Mortem
+date: 2020-06-30
+excerpt: An overall evaluation of the course.
+tags: [AVP, post, AVPpost]
+AVPpost: true
+category: post
+published: true
+comments: true
+---
+Overall, as the overseer of audio related aspects in the VR project, most aspects went notably well. This involved acquisition and general editing of audio before implementing it appropriately into numerous created scenes. This was originally intended to involve obtained audio through new recordings, however many external issues such as locale and weather blocked this from being a reliable source of audio and thus externally acquired audio was chosen as the main source. From here, various audio editing techniques such as cutting, amplification, cross fading and looping were employed in order to create an appropriate product to implement. While these methods resulted in satisfactory clips and notable looping issues were later ironed out, more complex techniques such as equalisation could have further increased the quality of these clips and also provide more of a learning experience through learning new methods of audio editing. As well as this, the final audio cues paired with the experience seemed somewhat dull, but given the tranquill nature of the experience this may not have been able to be avoided. 
+
+In terms of implementation, scripts were written to help Oculus' SDK Native Spatializer Plugin script, which was used to enable audio spatialization. These scripts consisted of small toggles such as checking what terrain the carriage is travelling on in order to play the correct clips, and a horse script in order to randomly play neighing clips once the bandit level reached its climax. Over time various issues presented themselves with these, but soon after solutions were found to counteract them. The interface for Oculus' plugin itself was competent to use, providing the ability to give parameters to the audio's distance as well as how much louder it would become when approached. A notably large chunk of development time was dedicated to fully learning the plugin, and once learned implementation became much smoother. On the other hand, the plugin was not always responsive and overall in execution is notably simpler than FMOD, which could have entailed not only a more integrated and coded experience that would have resulted in a more applicable learning experience but if worked with may have provided better tools for spatialization. Such factors as this and the straightforward nature in the audios' editing will in the future help decide which approaches would be more applicable for a task and open up new experiences. 
+
+As a whole, implementation otherwise proceeded succesfully and as such the audio implemented into the project helped create an identity and a full experience. The communication with other members in the group also went extremely well, and the production cycle worked so that once narrative design was finished on a new scene, the previous had been created in Unity and thus was ready for audio post-production before final visual touches were applied. Not much improvement could be suggested other than perhaps even more communication across the board, but the team conclusively managed to work well together.
