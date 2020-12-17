@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extracurricular Level Design - World Map Update
-date: 2020-11-17
+date: 2020-12-16
 excerpt: Showing off the finished world map.
 tags: [LevelDesign, post, LevelDesignpost]
 LevelDesignpost: true
