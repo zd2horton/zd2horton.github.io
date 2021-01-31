@@ -1,5 +1,5 @@
 ---
 layout: year4sort
-title: Masters Course
+title: MSc
 comments: false
 ---
