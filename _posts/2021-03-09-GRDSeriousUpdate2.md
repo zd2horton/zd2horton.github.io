@@ -1,0 +1,24 @@
+---
+layout: post
+title: Games Research and Development - Serious Games Idea Update 2
+date: 2021-03-09
+excerpt: Current advancements, and general understanding of the assignment.
+tags: [GRD, post, GRDpost]
+GRDpost: true
+category: post
+published: true
+comments: true
+---
+Across the board, a notable amount of research has been undertaken in finding JSON data for the project. This has included such sources as official parliament websites as well as other reliable third party locations such as Democracy Club. The JSON data found from these detail a large amount of aspects, such as an MP's name, how many votes they obtained and if they had won their local election. A prominent issue was found at this point, as due to a lack of understanding of the political field it was believed that none of this information was useful in any shape or form. As the desired content was more so a blatant and simple overview of such events as general elections, this certain criteria was sought out heavily with no success, once again due to the misunderstanding. Around this time a fitting API method was researched on, the resulting method being REST API (Representational State Transfer Application Programming Interface). As an API allows two programs to communicate, the REST aspect assists with requesting data from the other program notably with online capabilities.
+
+Initially, CSVs were also looked into but overall resources helped draw to the conflusion that the JSON format would be widely preferred due to the more awkward nature of processing CSV data over the simpler and more built in process of JSON data. The differences in processing would also prove extremely prominent in larger files such as the ones being worked with, thus giving JSON the advantage while also factoring in simpler usage with structs and arrays. 
+
+With the turning away of an API source for the current moment, work began on an implemenation for local JSON files however due to the abudance of (previously viewed as) excess and unneeded data custom JSON files were created for the showcase instead. This answer was reached after a long period of challenged thinking, as well as the bypassed refutals of such a system due to concerns about files of differenet lengths and categories. Once a more positive conclusion for the implementation was reached, it involved the turning over of a previously abandoned local CSV file loading system into a selection of data for either a specific general or presidental election, allowing a user to choose which year and country to use. This was then further backed up by a loading script created with the intent of loading the appropriate election file in question in order to extract its data and visualise it in a basic fashion, however while the files do load the proper processing of the current file is not currently functional. The large issue at hand would be the processing of a collection of JSON entries in one file, namely the candidates of the election. Many implementations of the matter show the unloading of the file into an array of a specific data type, yet when implemented similarly in the project the intended result is not reached. 
+
+
+Though a general train of thought pertained to having mere trihourly results centred on the parties overall, this was soon rebuked in the session having recently taken place. A worst case scenario of building a system up to be a potential custom API was raised, however this was soon put down once a better understanding of politics was obtained. It was here in which it was realised that the required data was always present (a winning candidate meaning a seat for the party in question), thus making the project far easier to tackle. Having an API based path open once more will allow for more diverse resources for the data, as well as potential live coverage if the idea is taken further and spoilt ballot votes. As well as this, the idea of using a cumulative sum of votes over the notion of seats was also discussed, helping to potentially create a system in which users may find out how much of a difference non voters may have made to the elections in question. This in itself would be another feature to create a unique selling point, as very few if any systems have taken this into account. For the current moment however, the most attention will be on properly loading in API based JSON files and accomodating for the collections of JSON entries so that the rest of the project will have a frame to work from.
+
+<a href="https://i.imgur.com/nCqggaK.png"><img src="https://i.imgur.com/nCqggaK.png"></a>
+<a href="https://i.imgur.com/QdRpoxV.png"><img src="https://i.imgur.com/QdRpoxV.png"></a>
+<a href="https://i.imgur.com/ktuQanC.png"><img src="https://i.imgur.com/ktuQanC.png"></a>
+<a href="https://i.imgur.com/hXGvUCf.png"><img src="https://i.imgur.com/hXGvUCf.png"></a>
