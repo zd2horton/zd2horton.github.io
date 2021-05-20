@@ -1,0 +1,12 @@
+---
+layout: post
+title: Creative Technologies Master Dissertation - Establishing a subject
+date: 2021-04-07
+excerpt: Closing in on a dissertation subject, and researching around it.
+tags: [CTMD, post, CTMDpost]
+CTMDpost: true
+category: post
+published: true
+comments: true
+---
+Previously, a dissertation was crafted on procedurally generating content for 2D Roguelike games. Though it admittedly did not come entirely into fruition due to complications with implementing the base Perlin Noise and Binary Space Partioning functionality, it has created the path for a more unique idea. Due to a large interest in level design for 2D Platforming games, the current idea being researched into centres around the procedural generation of level content for 2D Platforming games, including non-linear aspects such as secret rewards (e.g: exits and rooms) and alternate branching paths that can be used to complete the level. As well as this, similar to content seen in the Super Mario Bros. series of platformers, the concept also includes the use of gradual learning in a level in which a game mechanic is taught to the player. From here a collection of contextualised segments and trials test their knowledge, which may also intermingle previous mechanics or teach new ones on top of the pre-existing focus. As for more technological methods, similar to the previous project a collection of pathfinding algorithms may be used however in this context so far only ones pertaining to level difficulty seem applicable. At its base, a platforming level can be considered a collection of the aforementioned teaching and trial segments, and as such the approach would follow suit by procedurally creating these segments through using level components and asserting a patterned sequence with them. Other aspects would also play a role, such as contextualised parameters that dictate the level's difficulty and ensure that the concentration and placings of terrain, objects and obstacles are in logic and will create a playable experience. In all, these factors as well as non linear segments are to be what is worked towards, with algorithms that can be used in assistance with the project requiring research currently. Feedback on the system later into development would also help with the implementation, as issues found would be easier to iron out as a result.

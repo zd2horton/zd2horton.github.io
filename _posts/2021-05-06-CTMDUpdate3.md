@@ -1,0 +1,17 @@
+---
+layout: post
+title: Creative Technologies Master Dissertation Update 3
+date: 2021-05-06
+excerpt: Findings from the dissertation proposal, and what to do next.
+tags: [CTMD, post, CTMDpost]
+CTMDpost: true
+category: post
+published: true
+comments: true
+---
+With the completion of the proposal, a more solid idea of the project has now been built up and the basis of a 2D platforming level based setup has been solidified. This involves a deeper rooting of reinforcement learning into the project, surrounding the hypothesis around the possibility and potential usefulness of reinforcement learning used in a 2D platformer setting. In terms of the process, the initial platforming engine alongside various assets and abilities will be created so that the system is able to base the generation on a pre-existing engine, before the required base level creation foundations will be implemented with more detailed and incricate factors being placed alongside the learning intelligence. These starting rules would result in a very basic and stray level with few components placed basedd off little sense, so that a starting level would be present for basic component functionality tests as well as improvement and alterations made by future complex rules and the reinforcement learning. This would then give way for the aforementioned more detailed rules producing more complex levels with more intricate patterns and component placement, with which assistance may be provided through a decision tree of which components, player abilities and patterns the algorithm should consider.
+
+Once these factors and qualities have been refined and optimised, a player AI may also be created as to run through the generated levels and assure they are playable to the end so that the end user does not receive content they are not able to complete. This would all then include a reinforcement learning agent which would in turn create more complex level content, and optimise it so that it is as close to a handcrafted level as possible while acting accordingly after feedback. This system could be done through a user-end feedback in which the user themselves dictates the quality of the level, and in turn provide a reward or punishment appropriate for the intelligence. Finally after optimisation of the overall project, nonlinear aspects would then be focused on with an algorithm that would be able to determine such things as branching paths in a level, secret exits or secret areas.
+
+User feedback on the whole would be conducted regularly, with the system itself being able to assist with this process due to the interaction between its reinforcement learning and the users giving feedback to it in order to optimise a level for their own tastes. As well as this, more focused feedback may be given through questions pertaining to how they played, if they enjoyed their experience and if they believed that an algorithm had generated the content as well as setups with one group playing content generated with reinforcement learning while another group plays without. 
+As for next steps, more research will be done and compiled in order to strengthen the project's groundings, as well as potentially find more algorithms for use with the integrations.
