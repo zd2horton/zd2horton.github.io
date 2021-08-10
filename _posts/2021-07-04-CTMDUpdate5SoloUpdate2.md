@@ -5,6 +5,7 @@ date: 2021-07-04
 excerpt: More general content added to the project before splitting off.
 tags: [CTMD, post, CTMDpost, CGS, CGSpost]
 CTMDpost: true
+CGSpost: true
 category: post
 published: true
 comments: true
