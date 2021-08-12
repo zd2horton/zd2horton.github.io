@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games Research and Development - Bio-Rover Update 7
+title: Games Research and Development - Bio-Rover Update 8
 date: 2021-06-08
 excerpt: Documenting the beginnings of light influence.
 tags: [GRD, post, GRDpost]

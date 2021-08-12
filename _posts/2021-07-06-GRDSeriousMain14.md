@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games Research and Development - Bio-Rover Update 11
+title: Games Research and Development - Bio-Rover Update 12
 date: 2021-07-06
 excerpt: A more accurate sense of influence, and beginnings of level designing.
 tags: [GRD, post, GRDpost]

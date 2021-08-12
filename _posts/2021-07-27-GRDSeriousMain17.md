@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games Research and Development - Bio-Rover Update 14
+title: Games Research and Development - Bio-Rover Update 15
 date: 2021-07-27
 excerpt: Creating the final beginning row tiles, and improving the previous temple tile.
 tags: [GRD, post, GRDpost]
