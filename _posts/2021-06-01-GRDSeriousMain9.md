@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games Research and Development - Bio-Rover Update 6
+title: Games Research and Development - Bio-Rover Update 7
 date: 2021-06-01
 excerpt: Working on an energy depleting system.
 tags: [GRD, post, GRDpost]
