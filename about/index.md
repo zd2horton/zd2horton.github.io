@@ -14,4 +14,6 @@ comments: false
 </center>
 
 ## About Me
-I am currently a UWE student in their final year of Games Technology. The first year helped me immensely in understanding the basic workings of game design, with the second year building upon that and helping me work effectively in a team.
+I am a recent Game Development graduate from UWE Bristol, with a 2:1 in the Games Technology Bachelors and a Merit in the Commercial Games Development Masters. I'm especially passionate for level design and game mechanics alongside their theory, as well as overall gameplay programming. I have developed these to further heights, especially in university where I was provided with industry-esque experience and tasks through PlayWest. 
+
+My time there provided an invaluable experience that affirmed my aspirations and helped explore areas I never considered while in my comfort zone, building me up further to be an extremely ambitious, hard-working and creative individual. Overall, I have loved the industry from a young age and am incredibly keen to make experiences similar to those I've enjoyed over the years, especially through my current independent projects. 
