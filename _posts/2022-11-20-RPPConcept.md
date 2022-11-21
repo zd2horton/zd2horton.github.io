@@ -4,7 +4,7 @@ title: Retro Party Project - Concepts
 date: 2022-11-20
 excerpt: Fleshing out a larger game idea spawned from tinkering of a previous project.
 tags: [RetroPartyProject, post, RetroPartyProjectpost]
-LevelDesignpost: true
+RetroPartyProjectpost: true
 category: post
 published: true
 comments: true
