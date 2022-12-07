@@ -13,5 +13,5 @@ The first tile of Dusk Forest has been created, specifically designed for famili
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AG3ZAR0KhI8" target="_blank"><img src="http://img.youtube.com/vi/AG3ZAR0KhI8/0.jpg" alt="Current Level Design Progress" width="240" height="180" border="10" /></a>
 
-Purpose of each area in the tile::
+Purpose of each area in the tile:
 <a href="https://i.imgur.com/N3FIiME.png"><img src="https://i.imgur.com/N3FIiME.png"></a>

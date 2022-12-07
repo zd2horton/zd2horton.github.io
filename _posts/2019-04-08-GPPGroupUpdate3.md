@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Update 3
-date: 2018-04-08
+date: 2019-04-08
 excerpt: Fixing previous issues, and adding the patterned platform segment.
 GPPpost: true
 tags: [GPP, GPPpost]

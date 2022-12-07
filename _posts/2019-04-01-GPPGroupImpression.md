@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Impressions
-date: 2018-04-01
+date: 2019-04-01
 excerpt: Impressions on the group work for Gameplay Programming.
 GPPpost: true
 tags: [GPP, GPPpost]

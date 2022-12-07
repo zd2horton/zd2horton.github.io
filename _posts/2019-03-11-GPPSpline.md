@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, 2.5D Spline Gameplay
-date: 2018-03-11
+date: 2019-03-11
 excerpt: Gameplay following a 2.5D segment using Bezier curves.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

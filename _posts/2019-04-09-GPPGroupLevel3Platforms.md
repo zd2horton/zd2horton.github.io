@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Reactive Platforms
-date: 2018-04-09
+date: 2019-04-09
 excerpt: Implementation of reactive platforms in Level 3.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Controllable Follow Cam
-date: 2018-03-04
+date: 2019-03-04
 excerpt: A follow cam assignment.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

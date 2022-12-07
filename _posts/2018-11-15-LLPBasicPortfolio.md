@@ -15,12 +15,14 @@ A text adventure game of the ages, brought over to C++ and OOP. The aim of the g
 The game is a remastering of the original BASIC Make Your Own Text Adventure Game, with some added dialogue for the directing party the player communicates with in the game and various errors and bugs fixed. Many aspects of the code have also been dramatically overhauled thanks to the transition, such as the ability to keep the player's inventory in a sizable vector.
 
 The developer diary, and more information about the game's workings, can be found here:
-
 [https://zd2horton.github.io/tags/#basic](https://zd2horton.github.io/tags/#basic)
+
+While the post-mortem can be found here:
+[https://zd2horton.github.io/LLPBasicFinal/](https://zd2horton.github.io/LLPBasicFinal/)
 
 [https://github.com/UWEGames-LLP-2018/basic-reb0rn-zd2horton](https://github.com/UWEGames-LLP-2018/basic-reb0rn-zd2horton)
 
-[https://www.youtube.com/watch?v=cHOZdK9p7Uk](https://www.youtube.com/watch?v=cHOZdK9p7Uk)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cHOZdK9p7Uk" target="_blank"><img src="http://img.youtube.com/vi/cHOZdK9p7Uk/0.jpg" alt="Text Adventure" width="240" height="180" border="10" /></a>
 
 <a href="https://i.imgur.com/LvWzf4I.png"><img src="https://i.imgur.com/LvWzf4I.png"></a>
 

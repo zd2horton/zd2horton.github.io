@@ -14,4 +14,4 @@ As of now, the project seems presentable gameplay wise. The main game mechanic o
 The capturing device uses a pair of similar particle effects, where one is triggered upon aiming and the other upon capturing. The most difficult issue to solve thus far has been to get the effects to function properly with the device and the hypothetical nozzle it would have, which has caused them to output far different to their original appearances. However, overall the animation system and game itself along with a stylised menu all function very well.
 
 Video:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VymCax0s1NA" target="_blank"><img src="http://img.youtube.com/vi/VymCax0s1NA/0.jpg" alt="Music Game Jam Play Test width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VymCax0s1NA" target="_blank"><img src="http://img.youtube.com/vi/VymCax0s1NA/0.jpg" alt="Music Game Jam Play Test" width="240" height="180" border="10" /></a>

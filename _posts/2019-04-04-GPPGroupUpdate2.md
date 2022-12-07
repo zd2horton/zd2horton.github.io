@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Update 2
-date: 2018-04-04
+date: 2019-04-04
 excerpt: Current progress, and slight issues.
 GPPpost: true
 tags: [GPP, GPPpost]

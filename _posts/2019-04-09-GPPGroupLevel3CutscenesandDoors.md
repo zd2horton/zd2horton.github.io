@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Door and Cutscene Mechanisms
-date: 2018-04-09
+date: 2019-04-09
 excerpt: Implementation of doors and cutscene cameras in Level 3.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

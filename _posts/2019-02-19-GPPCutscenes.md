@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Switches and Doors
-date: 2018-02-19
+date: 2019-02-19
 excerpt: A task involving the avatar beginning a cutscene in order to open a door.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

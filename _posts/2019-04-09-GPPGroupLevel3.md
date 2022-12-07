@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Group Project Third Level
-date: 2018-04-09
+date: 2019-04-09
 excerpt: My overall contribution to the Gameplay Programming Group Project.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

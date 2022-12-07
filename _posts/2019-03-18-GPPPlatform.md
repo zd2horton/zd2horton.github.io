@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Moving Platform Sequence
-date: 2018-03-18
+date: 2019-03-18
 excerpt: Implementing various types of platforms.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

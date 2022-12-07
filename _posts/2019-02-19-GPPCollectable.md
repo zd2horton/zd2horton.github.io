@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Collectables
-date: 2018-02-19
+date: 2019-02-19
 excerpt: The second task in Unity for Gameplay Programming involving collectables.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

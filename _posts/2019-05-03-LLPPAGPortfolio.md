@@ -20,9 +20,14 @@ Some amount of suspense in the game in the form of attacking and losing early in
 The developer diary for Land of Gold can be found here:
 [https://zd2horton.github.io/tags/#LLPPAG](https://zd2horton.github.io/tags/#LLPPAG)
 
+While the post mortem can be found here:
+[https://zd2horton.github.io/LLPPAGUpdateFinal/](https://zd2horton.github.io/LLPPAGUpdateFinal/)
+
 [https://github.com/UWEGames-LLP-2018/play-and-games-redux-land-of-gold](https://github.com/UWEGames-LLP-2018/play-and-games-redux-land-of-gold)
 
-[https://youtu.be/0MzrDsQbDzU](https://youtu.be/0MzrDsQbDzU)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0MzrDsQbDzU" target="_blank"><img src="http://img.youtube.com/vi/0MzrDsQbDzU/0.jpg" alt="Land of Gold" width="240" height="180" border="10" /></a>
+
+
 
 <a href="https://i.imgur.com/jHisBjd.jpg"><img src="https://i.imgur.com/jHisBjd.jpg"></a>
 <a href="https://i.imgur.com/bA7w7QK.jpg"><img src="https://i.imgur.com/bA7w7QK.jpg"></a>

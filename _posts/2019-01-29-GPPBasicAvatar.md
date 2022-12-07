@@ -4,7 +4,8 @@ title: Gameplay Programming, Basic Avatar Project
 date: 2019-01-29
 excerpt: Our first Unity task for Gameplay Programming, involving implementing a basic avatar.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

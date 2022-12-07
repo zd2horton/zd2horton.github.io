@@ -20,10 +20,12 @@ The grid type movement uses a system similar to Basic Reb0rn's, in which each "g
 The developer diary for Ex Machina can be found here:
 [https://zd2horton.github.io/tags/#ExMachina](https://zd2horton.github.io/tags/#ExMachina)
 
+While the post-mortem can be found here: 
+[https://zd2horton.github.io/LLPExMachinaUpdate4/](https://zd2horton.github.io/LLPExMachinaUpdate4/)
+
 [https://github.com/UWEGames-LLP-2018/ex-machina-team-sleepy-blind-and-the-robot](https://github.com/UWEGames-LLP-2018/ex-machina-team-sleepy-blind-and-the-robot)
 
-[https://www.youtube.com/watch?v=dZSeWhoy3R8](https://www.youtube.com/watch?v=dZSeWhoy3R8)
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dZSeWhoy3R8" target="_blank"><img src="http://img.youtube.com/vi/dZSeWhoy3R8/0.jpg" alt="Text Adventure" width="240" height="180" border="10" /></a>
 
 <a href="https://i.imgur.com/h5OV4v7.png"><img src="https://i.imgur.com/h5OV4v7.png"></a>
 

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gameplay Programming, Melee Combat
-date: 2018-03-25
+date: 2019-03-25
 excerpt: Combat with large slime enemies.
 GPPproject: true
-tags: [GPP, GPPproject]
+GPPpost: true
+tags: [GPP, GPPproject, GPPpost]
 category: post
 published: true
 comments: true

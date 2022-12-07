@@ -3,9 +3,8 @@ layout: post
 title: Low Level Programming, Play and Games Final Update (Post Mortem)
 date: 2019-05-02
 excerpt: Final thoughts on how the project went.
-tags: [LLP, game, post, LLPpost, LLPproject, LLPPAG]
+tags: [LLP, game, post, LLPpost, LLPPAG]
 LLPpost: true
-LLPproject: true
 category: post
 published: true
 comments: true
