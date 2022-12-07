@@ -25,6 +25,7 @@ While the post mortem can be found here:
 
 [https://github.com/UWEGames-LLP-2018/play-and-games-redux-land-of-gold](https://github.com/UWEGames-LLP-2018/play-and-games-redux-land-of-gold)
 
+Gameplay shown in video below:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0MzrDsQbDzU" target="_blank"><img src="http://img.youtube.com/vi/0MzrDsQbDzU/0.jpg" alt="Land of Gold" width="240" height="180" border="10" /></a>
 
 

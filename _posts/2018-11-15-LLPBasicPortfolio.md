@@ -22,6 +22,7 @@ While the post-mortem can be found here:
 
 [https://github.com/UWEGames-LLP-2018/basic-reb0rn-zd2horton](https://github.com/UWEGames-LLP-2018/basic-reb0rn-zd2horton)
 
+Gameplay shown in video below:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cHOZdK9p7Uk" target="_blank"><img src="http://img.youtube.com/vi/cHOZdK9p7Uk/0.jpg" alt="Text Adventure" width="240" height="180" border="10" /></a>
 
 <a href="https://i.imgur.com/LvWzf4I.png"><img src="https://i.imgur.com/LvWzf4I.png"></a>

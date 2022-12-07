@@ -25,6 +25,7 @@ While the post-mortem can be found here:
 
 [https://github.com/UWEGames-LLP-2018/ex-machina-team-sleepy-blind-and-the-robot](https://github.com/UWEGames-LLP-2018/ex-machina-team-sleepy-blind-and-the-robot)
 
+Gameplay shown in video below:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dZSeWhoy3R8" target="_blank"><img src="http://img.youtube.com/vi/dZSeWhoy3R8/0.jpg" alt="Text Adventure" width="240" height="180" border="10" /></a>
 
 <a href="https://i.imgur.com/h5OV4v7.png"><img src="https://i.imgur.com/h5OV4v7.png"></a>
