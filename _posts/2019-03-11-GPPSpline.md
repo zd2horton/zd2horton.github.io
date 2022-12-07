@@ -17,7 +17,7 @@ The system implemented first allows for creation of a Bezier curve, using 4 node
 The biggest problem with this implementation is that the player does not rotate accordingly with the path, neither do they turn around if walking backwards in the spline. This may be due to the curve fixing the object's rotation, not letting it rotate in any other way. As well as this, walking backwards even beyond the start keeps the player fixated inside, even though there is no spline path present. A similar issue is the inability to go back through the spline via the end. This is problematic and needs fixing, as players may need to backtrack through a spline area.
 
 
-[https://www.youtube.com/watch?v=gyoM1d2A9EE](https://www.youtube.com/watch?v=gyoM1d2A9EE)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gyoM1d2A9EE" target="_blank"><img src="http://img.youtube.com/vi/gyoM1d2A9EE/0.jpg" alt="2.5D Spline Gameplay" width="240" height="180" border="10" /></a>
 
 The beginning of the spline:
 <a href="https://i.imgur.com/Uj1kjHt.jpg"><img src="https://i.imgur.com/Uj1kjHt.jpg"></a>

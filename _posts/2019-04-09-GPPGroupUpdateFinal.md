@@ -13,7 +13,7 @@ Overall, the final version of the level seems to have been implemented very well
 
 While I would have liked to create another puzzle for the level, doing as such may have drawn out the length of the level, especially considering the previous levels' lengths. This also ties into the treasure chest at the end of the level, which would have acted as a catalyst for the final puzzle which would have been time limited, but now acts as a final room for the game. In terms of improvements, I would attempt to create a final puzzle that could be done in a comfortable time and not uphold the level pacing, as well as perhaps expand upon the Simon Says puzzle and introduce new stages. However, I feel that the group's ideas, mechanics and levels have come together to produce an enjoyable experience.
 
-[https://www.youtube.com/watch?v=gSX_gCqEWTQ](https://www.youtube.com/watch?v=gSX_gCqEWTQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gSX_gCqEWTQ" target="_blank"><img src="http://img.youtube.com/vi/gSX_gCqEWTQ/0.jpg" alt="Group Project Final Update" width="240" height="180" border="10" /></a>
 
 Reactive platforms, as well as a cloudy atmosphere:
 <a href="https://i.imgur.com/JHX5z0Y.jpg"><img src="https://i.imgur.com/JHX5z0Y.jpg"></a>

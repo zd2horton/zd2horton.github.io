@@ -22,7 +22,8 @@ While this seems to be fairly functional, it also seems to be a huge catalyst in
  
 The camera will also be improved, as it is only currently a basic follow camera with some ability to drag around and view surroundings. The final camera should be similar to Super Mario 3D World in which it is able to follow the player and pivot around somewhat before returning back to position should the player stop manipulating it.
 
-[https://www.youtube.com/watch?v=RBNcEquc4SI](https://www.youtube.com/watch?v=RBNcEquc4SI)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RBNcEquc4SI" target="_blank"><img src="http://img.youtube.com/vi/RBNcEquc4SI/0.jpg" alt="Basic Avatar Project" width="240" height="180" border="10" /></a>
 
 The punching animation implemented:
 <a href="https://i.imgur.com/4TLQVUY.png"><img src="https://i.imgur.com/4TLQVUY.png"></a>

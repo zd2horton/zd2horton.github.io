@@ -19,7 +19,8 @@ The power ups implemented work as intended and leave particle effects behind whe
 
 There is notable room for improvement, most notably select animations transitioning to any aerial movement. When normally moving around, the avatar jumps properly however when the avatar lands, they will move around in the idle animation for a number of seconds as if stuck in exit time, after which animations will begin to function normally again. As well as this, the flip animation used for the double jump seems to not function and instead has the avatar squat during and before an idle animation which will be applied until landing. Both of these problems seem fixable by tinkering with animation booleans in the animator and inside of the code. To add, other alterations could include adding particle trails for the speed boost and particle effects onto the items themselves while they are in the world.
 
-[https://www.youtube.com/watch?v=k5QpSrsSK-s](https://www.youtube.com/watch?v=k5QpSrsSK-s)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k5QpSrsSK-s" target="_blank"><img src="http://img.youtube.com/vi/k5QpSrsSK-s/0.jpg" alt="Collectables" width="240" height="180" border="10" /></a>
 
 The avatar approaching the double jump power up:
 <a href="https://i.imgur.com/ej5kUd7.png"><img src="https://i.imgur.com/ej5kUd7.png"></a>

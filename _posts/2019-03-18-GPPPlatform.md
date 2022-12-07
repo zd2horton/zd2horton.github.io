@@ -16,7 +16,8 @@ My implementation has platforms moving on splines, the first moving on two diffe
 
 While the platforms work well, more mechanical platforms should have been made, which could be done by having a platform move before stopping after a certain amount of time, and then moving again. This was not a method that I did consider, as I believed the implementation to be more complex. This is also a similar case with reactive platforms, which could go down a little upon being weighed down and return once left.
 
-[https://www.youtube.com/watch?v=NUye-eo-S60](https://www.youtube.com/watch?v=NUye-eo-S60)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NUye-eo-S60" target="_blank"><img src="http://img.youtube.com/vi/NUye-eo-S60/0.jpg" alt="Moving Platform Sequence" width="240" height="180" border="10" /></a>
 
 The player dependent platform:
 <a href="https://i.imgur.com/DpVoBAQ.jpg"><img src="https://i.imgur.com/DpVoBAQ.jpg"></a>

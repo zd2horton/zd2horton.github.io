@@ -14,8 +14,7 @@ At the beginning of the level, the player must press the switch to the side. Fro
 
 In the next room after defeating all slimes, the door slides up in a similar way, letting the player cross. With the next cutscene, a new camera shows the door in front of the Simon Says puzzle, starting a coroutine which one by one turns the "lights" above the door into the respective colours required of the puzzle before giving control back to the player.
 
-
-[https://www.youtube.com/watch?v=wWEd0yJKpSQ](https://www.youtube.com/watch?v=wWEd0yJKpSQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wWEd0yJKpSQ" target="_blank"><img src="http://img.youtube.com/vi/wWEd0yJKpSQ/0.jpg" alt="Group Project Door and Cutscene Mechanisms" width="240" height="180" border="10" /></a>
 
 The start of the beginning door cutscene:
 <a href="https://i.imgur.com/oOy1qAI.jpg"><img src="https://i.imgur.com/oOy1qAI.jpg"></a>

@@ -20,7 +20,8 @@ The initial way to damage the slimes was by checking the animator's current stat
 
 Overall, however, the slimes themselves could use improvement. The patrolling used could be randomised further in order to give them more life, and this can also factor into the retreating where the slime could run away to a random spot rather than a designated corner. The biggest problem is with the smaller slimes, as their behaviour seems completely dysfunctional. They do not move towards the player at all, and touching them does cause them to try and retreat but not to much success. I am unsure of how this issue occurs.
 
-[https://www.youtube.com/watch?v=UeyefiVz9X4](https://www.youtube.com/watch?v=UeyefiVz9X4)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UeyefiVz9X4" target="_blank"><img src="http://img.youtube.com/vi/UeyefiVz9X4/0.jpg" alt="Melee Combat" width="240" height="180" border="10" /></a>
 
 The slime following a spline:
 <a href="https://i.imgur.com/3Yzk7rU.jpg"><img src="https://i.imgur.com/3Yzk7rU.jpg"></a>

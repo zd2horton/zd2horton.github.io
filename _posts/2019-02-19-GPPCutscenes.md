@@ -17,7 +17,8 @@ The initiation takes place via the player entering a trigger space just before t
 
 This task allowed for a broader imagination than the others especially on how the door could open, leading to the barred door. There are some improvements that can be made, including allowing the player to hit from more angles rather than always hitting the button from the front. There is also a strange camera conversion problem which can be seen for a few frames during the camera change back after the cutscene, which in the final "industry" version of the project must be fixed.
 
-[https://www.youtube.com/watch?v=Ihj70n6yMRQ](https://www.youtube.com/watch?v=Ihj70n6yMRQ)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ihj70n6yMRQ" target="_blank"><img src="http://img.youtube.com/vi/Ihj70n6yMRQ/0.jpg" alt="Switches and Doors" width="240" height="180" border="10" /></a>
 
 The switch and door:
 <a href="https://i.imgur.com/59FhqJe.png"><img src="https://i.imgur.com/59FhqJe.png"></a>

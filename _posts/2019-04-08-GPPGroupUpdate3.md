@@ -13,7 +13,8 @@ The previous error showcased with the switch has been fixed, allowing for the pl
 
 For the next update, I would like to implement "win" and "lose" conditions for the puzzle, the win condition opening the door in front of the puzzle and the losing condition fading the screen before placing the player back before the puzzle and deducting some health. I would also like to fix reactivity for the platforms the player can step on, as this was implemented but does not seem to be working.
 
-[https://www.youtube.com/watch?v=xiG28q_9-nQ](https://www.youtube.com/watch?v=xiG28q_9-nQ)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xiG28q_9-nQ" target="_blank"><img src="http://img.youtube.com/vi/xiG28q_9-nQ/0.jpg" alt="Group Project Update 3" width="240" height="180" border="10" /></a>
 
 A cutscene showing the player the Simon Says order:
 <a href="https://i.imgur.com/KbsG81c.jpg"><img src="https://i.imgur.com/KbsG81c.jpg"></a>

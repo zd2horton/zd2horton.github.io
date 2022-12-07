@@ -20,7 +20,8 @@ This was fixed in a newer and more complex implementation, first setting an init
 
 Due to this, the camera now feels more natural, sitting a little behind the player and reacting in proportion to their velocity. This can be seen if the player picks up the speed powerup, which when used causes the camera to pull back as they run and returns to normal speed when the powerup runs out. Rotation is dictated via the player rotating themselves, which does take away from the controllable aspect of the assignment however as a result rotation feels smooth and does not skew like the previous method. To improve this implementation, I will add the ability to rotate upwards as well as rotation using arrow keys independent of player rotation.
 
-[https://www.youtube.com/watch?v=xw2ZNnud0Xk](https://www.youtube.com/watch?v=xw2ZNnud0Xk)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xw2ZNnud0Xk" target="_blank"><img src="http://img.youtube.com/vi/xw2ZNnud0Xk/0.jpg" alt="Controllable Follow Cam" width="240" height="180" border="10" /></a>
 
 The initial camera system:
 <a href="https://i.imgur.com/O2E38gy.jpg"><img src="https://i.imgur.com/O2E38gy.jpg"></a>

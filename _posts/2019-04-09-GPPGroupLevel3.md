@@ -20,7 +20,7 @@ Reactive Platforms: [https://zd2horton.github.io/GPPGroupLevel3Platforms/](https
 Simon Says: [https://zd2horton.github.io/GPPGroupLevel3SimonSays/](https://zd2horton.github.io/GPPGroupLevel3SimonSays/)
 
 
-[https://www.youtube.com/watch?v=gSX_gCqEWTQ](https://www.youtube.com/watch?v=gSX_gCqEWTQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gSX_gCqEWTQ" target="_blank"><img src="http://img.youtube.com/vi/gSX_gCqEWTQ/0.jpg" alt="Group Project Third Level" width="240" height="180" border="10" /></a>
 
 The cutscene opening the starting door:
 <a href="https://i.imgur.com/VCr6g7I.png"><img src="https://i.imgur.com/VCr6g7I.png"></a>
