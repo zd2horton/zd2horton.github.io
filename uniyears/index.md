@@ -1,6 +1,6 @@
 ---
 layout: uniyear-allsort
-title: University Years
+title: Completed University Project Showcases
 comments: false
 ---
 Completed University Project Showcases
