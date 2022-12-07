@@ -1,5 +1,5 @@
 ---
-layout: post-yearsort
-title: All Posts
+layout: post-allsort
+title: All University Update Posts
 comments: true
 ---
