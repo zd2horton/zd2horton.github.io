@@ -1,7 +1,7 @@
 # Site
-title:              "Zach Horton's portfolio"
-bio:                'Welcome to my portfolio! This contains my progress over university, alongside my current projects.'
-description:        "Zach Horton's portfolio"
+title:              "Zach Horton's Portfolio"
+bio:                'Welcome! This contains progress over my current projects, alongside university work. (June 2024: Things will be soon overhauled as a lot has changed!)'
+description:        "Zach Horton's portfolio for current projects, previous positions and university work"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mylogo.png'
